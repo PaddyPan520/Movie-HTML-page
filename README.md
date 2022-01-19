@@ -1,3 +1,4 @@
-# Movie-HTML-page
+﻿# Movie-HTML-page
 Movie HTML page
-<a href="https://paddypan520.github.io/Movie-HTML-page/">预览页面</a>
+<br>
+<a href="https://paddypan520.github.io/Movie-HTML-page/" target="_blank">预览页面</a>
